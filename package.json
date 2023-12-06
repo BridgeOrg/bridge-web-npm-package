@@ -1,0 +1,33 @@
+{
+    "name": "bridge-web-npm-package",
+    "version": "1.0.0",
+    "description": "Bridge is the user-segment intelligence platform that empowers marketing, growth, and sales teams to unlock the full potential of their user data. With Bridge, you can effortlessly uncover customer personas, optimize user journeys, and drive personalized experiences, all without the need for extensive coding.",
+    "keywords": [
+      "bridge",
+      "user-segmentation",
+      "marketing-intelligence",
+      "sales-enablement",
+      "data-analysis",
+      "customer-personas",
+      "user-journey-optimization",
+      "personalized-experiences",
+      "personalization",
+      "low-code",
+      "no-code",
+      "customer-experience",
+      "data-driven",
+      "user-behavior-analysis",
+      "market-research",
+      "user-research",
+      "target-audience",
+      "bridge-web-npm-package",
+      "bridge-api"
+    ],
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sergey Keller",
+    "license": "ISC"
+  }
+  
